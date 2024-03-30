@@ -1,1 +1,3 @@
-<meta http-equiv="refresh" content="0;url=https://www.example.com">
+<script>
+    window.location.href = "https://www.example.com";
+</script>
