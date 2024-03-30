@@ -1,1 +1,1 @@
-    <meta http-equiv="refresh" content="0;url=https://www.example.com">
+    <meta http-equiv="refresh" content="0;url=https://www.example.com"> 
